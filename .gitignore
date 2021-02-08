@@ -1,0 +1,11 @@
+
+data/.DS_Store
+gen/.DS_Store
+gen/data-preparation/.DS_Store
+src/.DS_Store
+src/analysis/.DS_Store
+src/paper/.DS_Store
+src/data-preparation/.DS_Store
+.DS_Store
+src/analysis/.ipynb_checkpoints/Market_Size_Estimation-checkpoint.ipynb
+src/data-preparation/.ipynb_checkpoints/transform_data-checkpoint.ipynb
